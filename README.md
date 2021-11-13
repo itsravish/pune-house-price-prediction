@@ -6,5 +6,7 @@ This is a Pune House Price Prediction Project - [House Prices: Advanced Regressi
 
 #Author
 This repo is maintained by Ravish Khokle
+
 [Mail](khokler@gmail.com) 
+
 [LinkedIn](https://www.linkedin.com/in/ravishkhokle/)
